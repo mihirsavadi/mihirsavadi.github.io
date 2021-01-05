@@ -270,7 +270,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages (~> 209)
+  github-pages
   jekyll (~> 3.9.0)
   jekyll-archives
   jekyll-feed (~> 0.12)
