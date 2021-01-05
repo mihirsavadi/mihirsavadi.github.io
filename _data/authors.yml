@@ -1,0 +1,11 @@
+Mihir Savadi:
+  name        : "Mihir Savadi"
+  bio         : "Avid pursuer of intriguing things. Not a web developer."
+  avatar      : "/assets/dpsmall.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mihirsavadi1@vt.edu"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mihirsavadi/"
