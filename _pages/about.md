@@ -30,7 +30,7 @@ get in touch@
 {% endif %}
 <br/>
 
-<a href="assets/resume_mihirsavadi_2020.pdf">resume available here</a>
+<a href="/assets/resume_mihirsavadi_2021.pdf">resume available here</a>
 </div>
 
 ## Toolset
