@@ -9,11 +9,11 @@ author: Mihir Savadi
 ---
 
 <div markdown="1" style="font-size:20px; font-family: Times New Roman">
-This discussion is, in part, a follow up of [post [snn-#0]](/research/snn/Digital-Bidirectional-Leaky-Integrate-and-Fire/).The aim of the Radially Linked Network is to address resource related concerns of the DBLIF model were it to be placed in a conventional multi-layered perceptron, as well as provide an easily scalable multi-dimensional network for Spiking Neural Network (SNN) hardware implementations. The framework for the Radially Linked Network is explained first, and implications on DBLIF resource efficiency and other points are discussed further on. <br/>
+This discussion is, in part, a follow up of [post [snn-#0]]({{site.baseurl}}/research/snn/Digital-Bidirectional-Leaky-Integrate-and-Fire/).The aim of the Radially Linked Network is to address resource related concerns of the DBLIF model were it to be placed in a conventional multi-layered perceptron, as well as provide an easily scalable multi-dimensional network for Spiking Neural Network (SNN) hardware implementations. The framework for the Radially Linked Network is explained first, and implications on DBLIF resource efficiency and other points are discussed further on. <br/>
 
 Figure 1 below demonstrates the idea in a simple 2-dimensional form. <br/>
 
-![Figure 1](/assets/research/snn1-fig1.png) <br/>
+![Figure 1]({{site.baseurl}}/assets/research/snn1-fig1.png) <br/>
 *Figure 1: 2D radially linked Neural Unit with growing radius*
 {: .text-center}
 
@@ -35,7 +35,7 @@ where $$ r ≥ 0, d ≥ 1 $$
 
 How would one fabricate an integrated circuit of a radially connected network in dimensions $$𝑑 > 3$$ ? Imagine Figure 2 below is a radially linked network of neurons with $$r = 5$$ and $$d = 3$$. Each of these neurons is assigned a coordinate, $$(𝑖, 𝑗, 𝑘)$$ with respect to an origin located at any arbitrary corner of the grid. <br/>
 
-![Figure 2](/assets/research/snn1-fig2.png) <br/>
+![Figure 2]({{site.baseurl}}/assets/research/snn1-fig2.png) <br/>
 *Figure 2: Radially Linked network of r=5 & d=3*
 {: .text-center}
 
