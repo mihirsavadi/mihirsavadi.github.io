@@ -110,7 +110,7 @@ author:
       url: "https://www.linkedin.com/in/mihirsavadi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "url: "https://github.com/mihirsavadi""
+      url: "https://github.com/mihirsavadi"
 
 # Site Footer
 footer:
@@ -126,7 +126,7 @@ footer:
       url: "https://www.linkedin.com/in/mihirsavadi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "url: "https://github.com/mihirsavadi""
+      url: "https://github.com/mihirsavadi"
 
 
 # Reading Files

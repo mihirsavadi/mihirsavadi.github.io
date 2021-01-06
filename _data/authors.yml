@@ -1,11 +1,19 @@
 Mihir Savadi:
-  name        : "Mihir Savadi"
-  bio         : "Avid pursuer of intriguing things. Not a web developer."
-  avatar      : "/assets/dpsmall.jpg"
+  name             : "Mihir Savadi"
+  avatar           : "/assets/dpsmall.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Avid pursuer of intriguing things. Not a web developer."
+  location         : "Blacksburg, VA, USA"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mihirsavadi1@vt.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://msav.blog"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mihirsavadi/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mihirsavadi"
