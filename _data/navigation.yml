@@ -29,11 +29,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-projects:
-  - title: Formula SAE
-    url: /projects/fsae
-  - title: Glidio
-    url: /projects/glidio
-  - title: Miscellaneous
-    url: /projects/misc
