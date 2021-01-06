@@ -7,6 +7,9 @@ title:  Projects
 categories: projects
 permalink: /projects
 
+sidebar:
+  nav: "projects"
+
 header:
   overlay_image: "/assets/fsaepic.jpg"
 ---
