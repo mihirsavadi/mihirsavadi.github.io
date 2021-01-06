@@ -17,8 +17,7 @@ Figure 1 below demonstrates the idea in a simple 2-dimensional form. <br/>
 *Figure 1: 2D radially linked Neural Unit with growing radius*
 {: .text-center}
 
-The red squares in the figure represent a central neural unit, which receives inputs from its neighbouring blue neural units. The distance to which it connects to neighbouring neural units is denoted with the $$r$$ constant for ‘radius’. The resultant number of connections for each neuron in this 2D arrangement given a $$r$$ radius value is denoted by $$n$$ and is given by the following equation:
-</br>
+The red squares in the figure represent a central neural unit, which receives inputs from its neighbouring blue neural units. The distance to which it connects to neighbouring neural units is denoted with the $$r$$ constant for ‘radius’. The resultant number of connections for each neuron in this 2D arrangement given a $$r$$ radius value is denoted by $$n$$ and is given by the following equation: </br>
 
 $$ n = (2⋅r + 1)^2 - 1 \tag{1} $$
 
