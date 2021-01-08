@@ -20,13 +20,15 @@ but managing several google drive shared links can only go so far before becomin
 
 <div markdown="1" style="font-size:18px">
 
-- [ECE2574 Data Structures & Algorithms](https://bradfieldcs.com/algos/) *the linked website was a nice alternative to the textbook. credit to Bradfield School of Computer Science*
+- [ECE2574 Data Structures & Algorithms](https://bradfieldcs.com/algos/) <br/>
+  *^this linked website was a nice alternative to the textbook. credit to Bradfield School of Computer Science*
 - [ECE2714 Signals & Systems(Fall 2020)](assets\notes\collegeNotes\ECE2714_Signals&Systems_Fall2020.pdf)
 - [ECE2214 Physical Electronics (Spring 2020)](assets\notes\collegeNotes\ECE2214_PhysicalElectronics_Spring2020.pdf)
 - [ECE2024 Circuits (Spring 2020)](assets\notes\collegeNotes\ECE2024_Circuits-FormulaSheet_Fall2019.pdf)
 <br/><br/>
 
-- [MATH2534 Discrete Math (Fall 2020)](assets\notes\collegeNotes\MATH2534_DiscreteMath_Fall2020.pdf) *The most useful math class I've ever taken.*
+- [MATH2534 Discrete Math (Fall 2020)](assets\notes\collegeNotes\MATH2534_DiscreteMath_Fall2020.pdf) <br/>
+  *^the most useful math class I've ever taken.*
 - [MATH2214 Differential Equations (Fall 2019)](assets\notes\collegeNotes\MATH2214_DifferentialEquations_Fall2019.pdf): 
   - [finals summary](assets\notes\collegeNotes\MATH2214_DifferentialEquations-FinalsSummary_Fall2019.pdf)
 - [MATH2114 Linear Algebra (Spring 2019)](assets\notes\collegeNotes\MATH2114_LinearAlgebra_Spring2019.pdf)
