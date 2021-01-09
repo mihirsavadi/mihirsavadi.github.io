@@ -82,7 +82,7 @@ i.e. my source of zen. Running a minimal set-up: Harley Benton Dullahan, Zoom G1
   Finished my National Service term as a Corporal. ORD LOH! <br/>
   Started designing and building autonomous shared mobility electric scooters at a German-Singaporean startup called Floatility.
 - __December, 2016__: <br/> 
-  Completed Military Driving School as well as other vocational specific courses by November. Joined my company, DIV 2PDF's Sector Response Force - a quick-response force unit under the army's unconventional infantry umbrella. Had a great time here.
+  Completed Military Driving School as well as other vocational specific courses by November. Joined my company, DIV 2PDF's Sector Response Force - a quick-response force unit under the Army's unconventional infantry umbrella. Had a great time here.
 - __March, 2016__: <br/>
   Enlisted into the Singapore Army. 2 years of National Service (Army, Navy, Airforce, Police, or Civil Defense Services) is mandatory for Citizens. Basic Military Training (BMT) was rough; it didn't get any easier afterwards but it got a lot more fun. 
 - __November, 2015__: <br/> 
