@@ -43,7 +43,7 @@ but managing several google drive shared links can only go so far before becomin
 
 ## International Baccalaureate (IB)
 <div markdown="1" style="font-size:18px">
-Back in the ancient times of 2014-2015 - which is when I did IB - I was a frequent paper and pencil user. Below are some of the surviving notes scanned from the "archives", as well as other interesting literature I came up with for various course requirements. 
+Below are some of my surviving IB notes from the ancient paper & pencil times of 2014-2015, as well as other interesting literature I came up with for various course requirements.
 
 [Physics (Higher Level) - All Notes](assets\notes\IBnotes\HLPhysicsNotes_optionEmedPhysicsNotPresent.pdf) <br/>
 Out of the three higher level subjects I had undertaken (Math, Physics, Economics), physics was personally the most satisfying. The electrical portions of the course partially influenced my future inclinations towards Electrical & Computer Engineering (in addition to the Physics Extended Essay + many hours of messing about with an Arduino Uno).
