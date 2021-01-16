@@ -22,7 +22,7 @@ but managing several google drive shared links can only go so far before becomin
 
 - [ECE2574 Data Structures & Algorithms](https://bradfieldcs.com/algos/) <br/>
   *^this linked website was a nice alternative to the textbook. credit to Bradfield School of Computer Science*
-- [ECE2714 Signals & Systems(Fall 2020)](assets\notes\collegeNotes\ECE2714_Signals&Systems_Fall2020.pdf)
+- [ECE2714 Signals & Systems (Fall 2020)](assets\notes\collegeNotes\ECE2714_Signals&Systems_Fall2020.pdf)
 - [ECE2214 Physical Electronics (Spring 2020)](assets\notes\collegeNotes\ECE2214_PhysicalElectronics_Spring2020.pdf)
 - [ECE2024 Circuits (Spring 2020)](assets\notes\collegeNotes\ECE2024_Circuits-FormulaSheet_Fall2019.pdf)
 <br/><br/>
@@ -62,6 +62,6 @@ Theory of Knowledge (TOK) was one of the more enigmatic subjects all IB students
 There were three Internal Assessments, all of which were short commentaries on timely articles we had to find. I'm only just realizing (at the time of writing this) how Eurocentric the articles I chose were.
 
 [Geography Internal Assessment <br/> [*investigating the gradient and hydraulic radii relationships of a river*]](assets\notes\IBnotes\GeographyIAFinal.pdf) <br/>
-The Geography Internal Assessment (IA) was a large project based assessment with a final report-style deliverable. It was a requirement for all IB Geography students - I had taken it at the Standard Level. We had done a trip to Tioman, Malaysia to get ours done, it was quite fun.
+The Geography Internal Assessment (IA) was a large project based assessment with a final report-style deliverable. It was a requirement for all IB Geography students - I had taken it at the Standard Level. We had done a trip to Tioman, Malaysia to get ours done, which was quite fun.
 
 </div>
