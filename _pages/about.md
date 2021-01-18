@@ -14,7 +14,7 @@ toc_label: "On This Page:"
 My name is Mihir. I'm a third year undergraduate at Virginia Tech, majoring in Computer Engineering (Digital
 Design, Digital Signal Processing, Chip-Scale Integration, Machine Learning).
 
-I've recently fallen into the rabbit hole of Digital Design & Neuromorphic Computing - it is where my current research interests lie. I have grown quite fond of playing with digital logic at the lowest levels; I find it's combination of simplicity, flexibility, and scalability fascinating and powerful.
+I've recently fallen into the rabbit hole of Digital Design & Neuromorphic Computing - it is where my current research interests lie. I have grown quite fond of playing with digital logic at the lowest levels; I find its combination of simplicity, flexibility, and inherent scalability fascinating and powerful.
 
 When I'm not occupied with research or getting my degree, I enjoy listening to and creating music, reading, cooking, and stretching out my hammock.
 </div>
