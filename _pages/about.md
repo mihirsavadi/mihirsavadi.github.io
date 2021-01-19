@@ -89,5 +89,3 @@ i.e. my source of zen. Running a minimal set-up: Harley Benton Dullahan, Zoom G1
   Graduated High school. Completed the International Baccalaureate with Higher Level Physics, Economics, and Mathematics. 
 
 </div>
-
-
