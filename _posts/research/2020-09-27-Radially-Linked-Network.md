@@ -13,7 +13,7 @@ This discussion is, in part, a follow up of [post [snn-#0]]({{site.baseurl}}/res
 
 Figure 1 below demonstrates the idea in a simple 2-dimensional form. <br/>
 
-![Figure 1]({{site.baseurl}}/assets/research/snn1-fig1.png) <br/>
+<div><center><img src="/assets/research/snn1-fig1.png"></center></div>
 *Figure 1: 2D radially linked Neural Unit with growing radius*
 {: .text-center}
 
@@ -34,7 +34,7 @@ where $$ r ≥ 0, d ≥ 1 $$
 
 How would one fabricate an integrated circuit of a radially connected network in dimensions $$𝑑 > 3$$ ? Imagine Figure 2 below is a radially linked network of neurons with $$r = 5$$ and $$d = 3$$. Each of these neurons is assigned a coordinate, $$(𝑖, 𝑗, 𝑘)$$ with respect to an origin located at any arbitrary corner of the grid. <br/>
 
-![Figure 2]({{site.baseurl}}/assets/research/snn1-fig2.png) <br/>
+<div><center><img src="/assets/research/snn1-fig2.png"></center></div>
 *Figure 2: Radially Linked network of r=5 & d=3*
 {: .text-center}
 

@@ -13,7 +13,7 @@ This is a short discussion of a simple digital hardware implementation similar t
 fire (LIF) model. The idea, in its most basic form, is illustrated in figure 1 below. Architectural decisions, 
 their alternatives, and their implications are discussed further on.
 
-![Figure 1]({{site.baseurl}}/assets/research/snn0-fig1.png) <br/>
+<div><center><img src="/assets/research/snn0-fig1.png"></center></div>
 *Figure 1: Functional Block Diagram of proposed DBLIF primitive*
 {: .text-center}
 
