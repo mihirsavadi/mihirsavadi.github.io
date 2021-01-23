@@ -86,6 +86,6 @@ i.e. my source of zen. Running a minimal set-up: Harley Benton Dullahan, Zoom G1
 - __March, 2016__: <br/>
   Enlisted into the Singapore Army. 2 years of National Service (Army, Navy, Airforce, Police, or Civil Defense Services) is mandatory for Citizens. Basic Military Training (BMT) was rough; it didn't get any easier afterwards but it got a lot more fun. 
 - __November, 2015__: <br/> 
-  Graduated High school. Completed the International Baccalaureate with Higher Level Physics, Economics, and Mathematics. 
+  Graduated High school. Completed the International Baccalaureate with Higher Level Physics, Economics, and Mathematics (with statistics). 
 
 </div>
