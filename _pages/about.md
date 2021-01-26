@@ -68,7 +68,7 @@ i.e. my source of zen. Running a minimal set-up: Harley Benton Dullahan, Zoom G1
   Joined the [Virginia Tech Multifunctional Integrated Circuits & Systems Group (VT MICS)](https://www.mics.ece.vt.edu/), conducting research into low power Neuromorphic ASIC's (application specific integrated circuits). Get to work on cool stuff at the intersections of artificial intelligence, neuroscience, low level signal processing, and computer architecture. <br/>
   *New item on the bucket list:* ☐*build a brain*. 
 - __May, 2020__: <br/>
-  Interned at Cree Wolfspeed in Raleigh-Durham, North Carolina for the summer. Had a great time learning about bleeding edge silicon carbide semiconductor technology. Learnt a ton during my summer project designing high-speed controls systems for an automotive inverter test platform. 
+  Started an internship at Cree Wolfspeed in Raleigh-Durham, North Carolina for the summer. Had a great time learning about bleeding edge silicon carbide semiconductor technology. Learnt a ton during my summer project designing high-speed controls systems for an automotive inverter test platform. 
 - __June, 2019__: <br/>
   Started a long-term project with the aim of building affordable and easily scalable Variometers for hang-gliders. Called it 'Glidio'. <br/> 
   *Context*: joined the VT hang gliding club in January; went to a big hang gliding event at Kitty Hawk, NC in the summer; enjoyed having a wing strapped to my back and jumping off high places; decided to take on hang gliding seriously.
