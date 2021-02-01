@@ -13,9 +13,6 @@ Over the years I have compiled notes for *some* of the various classes or course
 been in. I try to keep layout and language simple, candid, and intuitive. As far as I have been told, people have found them useful. I upload and share them whenever I can, 
 but managing several google drive shared links can only go so far before becoming a pain. This is a nice upgrade.
 
-*note to self: need to scan and upload NOVA calc3 from 2020 Summer*
-</div>
-
 ## Virgnia Tech Electrical & Computer Engineering 
 
 <div markdown="1" style="font-size:18px">
@@ -28,11 +25,12 @@ but managing several google drive shared links can only go so far before becomin
 <br/><br/>
 
 - [MATH2534 Discrete Math (Fall 2020)](assets\notes\collegeNotes\MATH2534_DiscreteMath_Fall2020.pdf) <br/>
-  *^the most useful math class I've ever taken.*
+  *^the mos6t useful math class I've ever taken.*
+- [MTH265 Calc3-Multivariable  Calculus (Summer 2020 @NOVACC)](\assets\notes\collegeNotes\NOVACC_MTH265_Calc3_Summer2020.pdf)
 - [MATH2214 Differential Equations (Fall 2019)](assets\notes\collegeNotes\MATH2214_DifferentialEquations_Fall2019.pdf): 
   - [finals summary](assets\notes\collegeNotes\MATH2214_DifferentialEquations-FinalsSummary_Fall2019.pdf)
 - [MATH2114 Linear Algebra (Spring 2019)](assets\notes\collegeNotes\MATH2114_LinearAlgebra_Spring2019.pdf)
-- [MATH1226 Calc 2 (Fall 2018)](assets\notes\collegeNotes\MATH1226_Calc2-FinalsNotes_Fall2018.pdf):
+- [MATH1226 Calc2-Calculus of a Single Variable (Fall 2018)](assets\notes\collegeNotes\MATH1226_Calc2-FinalsNotes_Fall2018.pdf):
   - [finals summary](assets\notes\collegeNotes\MATH1226_Calc2_Fall2018.pdf)
   - [trig identities](assets\notes\collegeNotes\MATH1226_Calc2-TrigIDs_Fall2018.pdf)
 <br/><br/>
