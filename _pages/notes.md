@@ -26,7 +26,7 @@ If you notice any mistakes, or would like to inquire about other course material
 <br/><br/>
 
 - [MATH2534 Discrete Math (Fall 2020)](assets\notes\collegeNotes\MATH2534_DiscreteMath_Fall2020.pdf) <br/>
-  *^the mos6t useful math class I've ever taken.*
+  *^the most useful math class I've ever taken.*
 - [MTH265 Calc3-Multivariable  Calculus (Summer 2020 @NOVACC)](\assets\notes\collegeNotes\NOVACC_MTH265_Calc3_Summer2020.pdf)
 - [MATH2214 Differential Equations (Fall 2019)](assets\notes\collegeNotes\MATH2214_DifferentialEquations_Fall2019.pdf):
   - [finals summary](assets\notes\collegeNotes\MATH2214_DifferentialEquations-FinalsSummary_Fall2019.pdf)
