@@ -7,7 +7,7 @@ title: Where's Blue?
 permalink: /letsgostalkmihir
 ---
 
-# Where's Blue?
+# Where's Blue? (STATUS: Not Currently Transmitting - creepystalkythingy not fully built/installed in car yet)
 
 Here you shall find the most recently updated location of Blue my Honda Fit. Click the Pin in the map below to see more information - date and time of location snapshot, GPS coordinates, etc. 
 
