@@ -11,6 +11,8 @@ permalink: /letsgostalkmihir
 
 Here you shall find the most recently updated location of Blue my Honda Fit. Click the Pin in the map below to see more information - date and time of location snapshot, GPS coordinates, etc. 
 
+Blue should be able to continuously transmit her location as long as her engine is running. She can go for about a week without cranking whilst still being able to transmit her location, until her transmitter's battery dies. Once her transmitter's battery is dead, she wont transmit her location if she does start her engine again - her transmitter will have to be opened up and reconfigured. A more permanent solution is in the works.
+
 My intended route is as follows (I will update a more thorough itinerary here as it gets established):
 - Blacksburg VA
 - Nashville TN
