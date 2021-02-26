@@ -18,8 +18,6 @@ If you notice any mistakes, or would like to inquire about other course material
 
 <div markdown="1" style="font-size:18px">
 
-- [ECE2574 Data Structures & Algorithms](https://bradfieldcs.com/algos/) <br/>
-  *^this linked website was a nice alternative to the textbook. credit to Bradfield School of Computer Science*
 - [ECE2714 Signals & Systems (Fall 2020)](assets\notes\collegeNotes\ECE2714_Signals&Systems_Fall2020.pdf)
 - [ECE2214 Physical Electronics (Spring 2020)](assets\notes\collegeNotes\ECE2214_PhysicalElectronics_Spring2020.pdf)
 - [ECE2024 Circuits (Spring 2020)](assets\notes\collegeNotes\ECE2024_Circuits-FormulaSheet_Fall2019.pdf)
