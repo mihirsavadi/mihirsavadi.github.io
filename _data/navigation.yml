@@ -17,8 +17,6 @@ main:
         url: /projects/misc
   - title: "Notes"
     url: /notes
-  - title: "Photos"
-    url: /photos
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
