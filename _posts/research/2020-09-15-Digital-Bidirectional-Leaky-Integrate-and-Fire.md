@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title:  "[snn-#0] A Digital Bidirectional Leaky Integrate and Fire (DBLIF) Neural Model"
-last_modified_at: 2020-12-16
+last_modified_at: 2021-03-18
 categories: research snn
 
 author: Mihir Savadi
@@ -29,6 +29,8 @@ One drawback that immediately comes to mind with this model is the digital-resou
 
 The LUT may even be avoided entirely by simply implementing a time-constant multiplier after the accumulator, i.e. $$g(x) = e^x$$ whereby $$x$$ is the output of the multiplier and $$g$$ is the function replacing the LUT. Issues once again arise around the complex hardware needed for each Neuron in order to implement this function. Additionally, foregoing the LUT for this method would remove the ability to insert arbitrary activation functions - the significance of which is left to be determined. From intuition, LUT's of reasonable granularity and word sizes (e.g. 16 or 32 bit address spaces with 16 or 32 bit word sizes) would be massive, making the time-constant multiplier seem like a more efficient alternative in terms of FPGA synthesis. Either way, the nuances of the tradeoffs between the number of nuerons we can fit in a single network and the complexity of each nueron would be interesting to study. <br/>
 
-From trial and error synthesizing for an Altera Cyclone V SX SoC—5CSXFC6D6F31C6N (a lower end consumer level FPGA) & Quartus, a single dblif model from figure 1 with 10x16bit weights, a 32bit accumulator, and no LUT, produced a quartus reported utilization rate in ALM's of 58/41910, allowing for a capacity of around 722 DBLIF nuerons best case with room for no other hardware - an unlikely situation. A more reasonable estimate would be around the high 600's depending on the amount of other hardware necessary to support the network.
+From trial and error synthesizing for an Altera Cyclone V SX SoC—5CSXFC6D6F31C6N (a lower end consumer level FPGA) & Quartus, a single dblif model from figure 1 with 10x16bit weights, a 32bit accumulator, and no LUT, produced a quartus reported utilization rate in ALM's of 58/41910, allowing for a capacity of around 722 DBLIF nuerons best case with room for no other hardware - an unlikely situation. A more reasonable estimate would be around the high 600's depending on the amount of other hardware necessary to support the network. 
+
+Through observing testbench waveforms it became apparent that the DBLIF's were just acting as simple interconnected clock-dividers, with the exception that their behavior was dynamic and not static, as well as tightly-integrated with one another. This is really interesting -- we can use this observation to not only build intuition about the high-level behavior of temporally-discretized neural models, but also (to some extent) temporally-continuous biological neural systems as well. We can also use this to work backwards and optimize our digital SNN models in order to achieve the high-level functionality that we observed in the testbench, without having to implement every biologically plausible detail. This idea sort of parallels how conventional Artificial Neural Networks (ANN) at some level analogize the function of biological neural networks. However our intrinsically parallel and time-dependent SNN neural model would be far less removed from the 'real thing' in this '[analogy](https://www.youtube.com/watch?v=lXO0ylemz68)' than an ANN.
 </div>
 
