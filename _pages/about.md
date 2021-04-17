@@ -44,7 +44,7 @@ Through course work I have become fairly comfortable with ModelSim as well as In
 My go-to general purpose microcontrollers for various projects have always been from the Teensy product line from pjrc.com. The new Teensy4.0 and 4.1 were delivered from the heavens themselves. I have also grown a large interest in Espressif's various ESP32 SoC offerings.
 
 ### *Printed Circuit Boards*
-Diptrace has been my go-to PCB software - I've amassed a somewhat comfortable library of components over the years. Diptrace's near universal compatibility, uncompromised simplicity, and fast turn-around times has kept me hooked - at least for my two-layer projects. I am also familiar with Altium through Formula SAE and internship work. <br/> 
+Diptrace has been my go-to PCB software - I've amassed a somewhat comfortable library of components over the years. Diptrace's near universal compatibility, uncompromised simplicity, and fast turn-around times has kept me hooked - at least for my two-layer projects. I am also familiar with Altium through Formula SAE and internship work.  
 I'm a giant nerd about my soldering tools - the TS100 and TS80 have stuck and for many good reasons; also a big fan of toaster-oven to reflow-oven conversions. I really hope to see more open-source desktop vapor phase [solutions](https://github.com/pcbarts/vaporphaseone) become available. 
 
 ### *Circuit Analysis*
@@ -62,30 +62,30 @@ i.e. my source of zen. Running a minimal set-up: Harley Benton Dullahan, Zoom G1
 ## Timeline
 <div markdown="1" style="font-size:18px">
 
-- __Currently__: <br/>
+- __Currently__:  
   Surviving Junior year in Electrical & Computer Engineering, working on VT MICS projects, thinking about grad school, attempting to balance life in general. Realizing the striking finiteness of time.
-- __August, 2020__: <br/>
-  Joined the [Virginia Tech Multifunctional Integrated Circuits & Systems Group (VT MICS)](https://www.mics.ece.vt.edu/), conducting research into low power Neuromorphic ASIC's (application specific integrated circuits). Get to work on cool stuff at the intersections of artificial intelligence, neuroscience, low level signal processing, and computer architecture. <br/>
-  *New item on the bucket list:* ☐*build a brain*. 
-- __May, 2020__: <br/>
+- __August, 2020__:  
+  Joined the [Virginia Tech Multifunctional Integrated Circuits & Systems Group (VT MICS)](https://www.mics.ece.vt.edu/), conducting research into low power Neuromorphic ASIC's (application specific integrated circuits). Get to work on cool stuff at the intersections of artificial intelligence, neuroscience, low level signal processing, and computer architecture.  
+  *New item on the bucket list:* ☐*build a brain*.
+- __May, 2020__:  
   Started an internship at Cree Wolfspeed in Raleigh-Durham, North Carolina for the summer. Had a great time learning about bleeding edge silicon carbide semiconductor technology. Learnt a ton during my summer project designing high-speed controls systems for an automotive inverter test platform. 
-- __June, 2019__: <br/>
-  Started a long-term project with the aim of building affordable and easily scalable Variometers for hang-gliders. Called it 'Glidio'. <br/> 
+- __June, 2019__:  
+  Started a long-term project with the aim of building affordable and easily scalable Variometers for hang-gliders. Called it 'Glidio'.  
   *Context*: joined the VT hang gliding club in January; went to a big hang gliding event at Kitty Hawk, NC in the summer; enjoyed having a wing strapped to my back and jumping off high places; decided to take on hang gliding seriously.
-- __March, 2019__: <br/>
+- __March, 2019__:  
   Became VT Motorsport's Electrical Team Lead for our 2020 competition season (the upcoming pandemic would soon pose many challenges). Started work on a digital non-programmable drive-by-wire safety system called the Brake System Plausibility Device (BSPD).
-- __September, 2018__: <br/>
+- __September, 2018__:  
   Joined [Virginia Tech's Formula SAE team: VT Motorsports](http://www.vtmotorsports.com/). Started work redesigning our combustion vehicle's data acquisition and electrical power distribution and management systems. Little did I know of the many sweet hours I would end up spending at the Ware Lab, the Dyno, and the Amp Lab.
-- __August, 2018__: <br/>
+- __August, 2018__:  
   Left Floatility and started freshman year at Virginia Tech (VT). Go Hokies!
-- __February, 2018__: <br/> 
-  Finished my National Service term as a Corporal. ORD LOH! <br/>
+- __February, 2018__:  
+  Finished my National Service term as a Corporal. ORD LOH!  
   Started designing and building autonomous shared mobility electric scooters at a German-Singaporean startup called Floatility.
-- __December, 2016__: <br/> 
+- __December, 2016__:  
   Completed Military Driving School as well as other vocational specific courses by November. Joined my company, DIV 2PDF's Sector Response Force - a quick-response force unit under the Army's unconventional infantry umbrella. Had a great time here.
-- __March, 2016__: <br/>
-  Enlisted into the Singapore Army. 2 years of National Service (Army, Navy, Airforce, Police, or Civil Defense Services) is mandatory for Citizens. Basic Military Training (BMT) was rough; it didn't get any easier afterwards but it got a lot more fun. 
-- __November, 2015__: <br/> 
-  Graduated High school. Completed the International Baccalaureate with Higher Level Physics, Economics, and Mathematics (with statistics). 
+- __March, 2016__:  
+  Enlisted into the Singapore Army. 2 years of National Service (Army, Navy, Airforce, Police, or Civil Defense Services) is mandatory for Citizens. Basic Military Training (BMT) was rough; it didn't get any easier afterwards but it got a lot more fun.
+- __November, 2015__:  
+  Graduated High school. Completed the International Baccalaureate with Higher Level Physics, Economics, and Mathematics (with statistics).  
 
 </div>
