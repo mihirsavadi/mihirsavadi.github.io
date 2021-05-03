@@ -10,9 +10,9 @@ permalink: /letsgostalkmihirv3gw1m6h16340sd9
 # Where's Blue? 
 # (STATUS: Removed, not transmitting.)
 
-Here you shall find the most recently updated location of Blue my Honda Fit. Click the Pin in the map below to see more information - date and time of location snapshot, GPS coordinates, etc. 
+Here you shall find the most recently updated location of Blue my Honda Fit. Click the Pin in the map below to see more information - date and time of location snapshot, GPS coordinates, etc.  
 
-Blue should be able to continuously transmit her location as long as her engine is running. She can go for about a week without cranking whilst still being able to transmit her location, until her transmitter's battery dies. Once her transmitter's battery is dead, she wont transmit her location if she does start her engine again - her transmitter will have to be opened up and reconfigured. A more permanent solution is in the works.
+Blue should be able to continuously transmit her location as long as her engine is running. She can continue to transmit for a few days without cranking, until her transmitter's battery dies.
 
 My intended route is as follows:  
 
