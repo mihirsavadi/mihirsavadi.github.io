@@ -1,0 +1,86 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 May 2021 15:56:04 at https://mmistakes.github.io/minimal-mistakes/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mmistakes.github.io/minimal-mistakes/ -O1 "C:\SavedSites\minimalmistakesgithubpages\minimalmistakesgithubpages" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:57:18	Error: 	"Not Found" (404) at link https://mmistakes.github.io/minimal-mistakes/parent-1-page-url/ (from https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
+15:57:18	Error: 	"Not Found" (404) at link https://mmistakes.github.io/minimal-mistakes/child-1-page-url/ (from https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
+15:57:18	Error: 	"Not Found" (404) at link https://mmistakes.github.io/minimal-mistakes/child-2-page-url/ (from https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
+15:57:18	Error: 	"Not Found" (404) at link https://mmistakes.github.io/minimal-mistakes/parent-2-page-url/ (from https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
+15:57:18	Error: 	"Not Found" (404) at link https://mmistakes.github.io/minimal-mistakes/child-3-page-url/ (from https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
+15:57:27	Warning: 	Moved Permanently for mmistakes.github.io/minimal-mistakes/theme-setup/
+15:57:27	Warning: 	Redirected link is identical because of 'URL Hack' option: mmistakes.github.io/minimal-mistakes/theme-setup/ and https://mmistakes.github.io/minimal-mistakes/theme-setup/
+15:57:27	Warning: 	File has moved from mmistakes.github.io/minimal-mistakes/theme-setup/ to https://mmistakes.github.io/minimal-mistakes/theme-setup/
+15:57:35	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/4259ffdd6f5a90a9c09ebc9d1b4d69835c86e031/assets/js/_main.js not scanned (follow robots meta tag)
+15:57:36	Error: 	"Not Found" (404) at link https://github.com/mmistakes/minimal-mistakes/blob/{{ urlEncodedRefName }}/assets/js/_main.js (from https://github.com/mmistakes/minimal-mistakes/blob/master/assets/js/_main.js)
+15:57:48	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/4259ffdd6f5a90a9c09ebc9d1b4d69835c86e031/assets/js/_main.js not scanned (follow robots meta tag)
+15:57:48	Error: 	"Not Found" (404) at link https://github.com/mmistakes/minimal-mistakes/blob/master/assets/js/assets/js/_main.js (from https://github.com/mmistakes/minimal-mistakes/blob/master/assets/js/_main.js)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/611be93d83b2e61f14d40fce5db6cb2b0b0cb173/_assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/73d9750be4184631b03d5954a8ca8208de0a7302/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/973520759ccd481152b934933b47e52f4dfc4757/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/caefcce7296fc287ceba35aaac645991ac1d60a9/_assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/0db0f31953a6e59a206c997a62b1e2bfa51cfd1b/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/abb89f7eb69029f21c05cfa090ac43acfa95b6d7/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/3925087ac28febb3655175d0e00c42a005d2c146/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/15c3abe48bf70cf34f6bb2504e2bd693ecdbcbc7/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/e72642539e526b41bcccd02914b1df1f7442ef86/_assets/js/_main.js not scanned (follow robots meta tag)
+15:58:13	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/8eb880aaa0f674fcb872f576a18fa701ae46c2a8/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:14	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/d720398c247c4f1fba07d3ebd1283deecb6ef897/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:14	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/2784b3ad431f9e0e9f262d1a06d23f389c93d95c/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:14	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/94e8280950f095c82a26f616e5a5dd35d336dd86/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:14	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/44760c989e1f481cad3a439fc937ef47edd19f59/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:14	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/6a3d325cd49a2965e600519cc7e7f4c8f67cc9c9/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:15	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/e243901e9fda852d57784a72e913d091eb5770da/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:15	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/cda165d5ea2f7c230c71d2abdb0595851b9572cb/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:15	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/5c8b220bf93592cd0ecbebb9758342e42bf7e89f/assets/js/_main.js not scanned (follow robots meta tag)
+15:58:15	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blame/5267be3bf1fad08b485ae1f9a2cefd1a59d71c8d/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:23	Error: 	Exit requested by shell or user
+15:59:23	Warning: 	File not added due to mirror cancel: https://github.com/customer-stories/bcg-gamma
+15:59:23	Warning: 	File not added due to mirror cancel: https://github.com/customer-stories/bcg-gamma
+15:59:23	Warning: 	File not added due to mirror cancel: https://github.com/customer-stories/bcg-gamma
+15:59:23	Warning: 	File not added due to mirror cancel: https://github.com/customer-stories/bcg-gamma
+15:59:26	Error: 	"Not Found" (404) at link https://github.com/signup_check/username?suggest_usernames=true (from https://github.com/join?return_to=%2Fmmistakes%2Fminimal-mistakes%2Fblob%2Fmaster%2Fassets%2Fjs%2F_main.js&source=login)
+15:59:26	Error: 	"Not Found" (404) at link https://github.com/signup_check/email (from https://github.com/join?return_to=%2Fmmistakes%2Fminimal-mistakes%2Fblob%2Fmaster%2Fassets%2Fjs%2F_main.js&source=login)
+15:59:26	Error: 	"Not Found" (404) at link https://github.com/users/password (from https://github.com/join?return_to=%2Fmmistakes%2Fminimal-mistakes%2Fblob%2Fmaster%2Fassets%2Fjs%2F_main.js&source=login)
+15:59:26	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/784264d1e665d95f378ae36afe817a36ce500cfa/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:26	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/b7144931c7163f0cd55b9da1f30f5676c4825001/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:26	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/6d28d12d1dcf4883d41e168882c06f1d9948c040/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:26	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/3b3da46feaca36f9142d93b7ec53d0e92c302a29/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:26	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/cf0c046dd231a5eb7f2d1d234740f102f2ad44c2/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:26	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/a44dc2f9141c0c1093845e541a6ae919fa24d080/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:26	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/1e78b160cae51dda44c05cb42d3ac2e249e08220/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:26	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/81f7851347833861c3f6092178ca7a70a1d7145a/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/1b7e8335fe0ce389ca13ceadd94fc9bdd3583866/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/6990f8fcc9fc22cda5c96a0b6a3585a333433ea0/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/f2f580101efbc7fb6bb3c181dd1dbe50722165ba/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/33551c8cdbe21f44140531465115de567111f0cb/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/356c1eb0937ab514bda35662afb656e3c06fdeca/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/e2b50a355fbf6bb88c6990f8353e5c30e8e21e54/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/7eb00bbd618a7517fd763ea470e1c9a58c6a280a/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/6b9afaa8b7f072e4c644d2f199dd2d320d83f407/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/55843c5dca8fcf5ff83e48ace202fc529d58ae14/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/9a9cbc01e3875a9fdf9d46e54759ba664784044f/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/cd79ac9a640da28a5c56ebaa87d51e147535e500/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/e5147f8de9be73e93180499a835eae692b18cb8b/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/54a864690153344876bf7c7d6f5ad42d6001cc5a/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/c3e2272a6f6a611c6cf684f1dbfa2ee95c7b387c/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/9bd96ec92f130c6fd4632a866d4b9d1e3971da05/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/4df2367e1c4c6986e5ccfc273723c58b1f395d73/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/a2a4f845804c0ea1de96e735f5e4a9d3eda89648/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:27	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/780b30c9f6eb329255fda07ef9a4487f3ba83f29/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:28	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/af16afdaf2492f0fa5dd366aa9288ae8f0f4f691/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:28	Error: 	"Not Found" (404) at link https://github.com/mmistakes/minimal-mistakes/blob/c19cd2a3911fe90c38cd7a6ec0516ced10dc1e6f/assets/js/_main.js (from https://github.com/mmistakes/minimal-mistakes/commits/master/assets/js/_main.js)
+15:59:28	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/d5a0a2e585db42bf231340b727741f01ef7db4b5/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:28	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/f06b4c163d2e51b5a03e55f15d7477bfdf95555e/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:28	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/d0313bd423335049f72b530ba6a6b089569e511b/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:28	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/33d5d966f3b7b6bd94e9fab775ce3e9eacead315/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:28	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/db2981d253534bf2b03b8341e2ee490ffd1dada0/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:28	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/82e306ebc9927517bc1234cf9ea34f8357227a30/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:28	Warning: 	Link https://github.com/mmistakes/minimal-mistakes/blob/a472d16bdf1cf1673c99bd319cfff3f8ba812964/assets/js/_main.js not scanned (follow robots meta tag)
+15:59:33	Error: 	"mirror stopped by user" (-1) at link https://github.com/customer-stories/bcg-gamma (from https://github.com/customer-stories?type=enterprise)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 29 seconds : 664 links scanned, 648 files written (55405182 bytes overall) [30437791 bytes received at 145635 bytes/sec], 32907210 bytes transferred using HTTP compression in 359 files, ratio 18%, 2.7 requests per connection
+(13 errors, 62 warnings, 0 messages)

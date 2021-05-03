@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1270833927.1620071812
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	_device_id	ab68df837e745b5da24620574e6487d2
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	BPmPn0A4o2DWcq0k3FI3hXVYln6BVqq8qV2Y5r4gIgO9mBcP0yz0cdGKt9Sk3Q2sKIu678DEnaDtN%2BP%2BNBQ%2BLcMZOTmn29MPct9g%2Bj%2BjCGmFCGbHYEoigJsHH7eJn5p4RrKocNiIfUhIGvbI13jeq60aUwEZB9hPSbtXq%2BNOjGuciKJWauyZR8l7POhTW%2BkO4yb0E%2F6qeFLKKj%2FK6KIVu7MBIgpaVRdtTVxFzJBYllmUnPo8E31jGB%2B2zCk6wZMCd9ZQhPlxlU%2FPhA4TV56CeQ%3D%3D--DI2nldXGyaNILC1t--2gk%2BrTVnnWzWYR0zL3LSvA%3D%3D
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
