@@ -23,7 +23,7 @@ My intended route is as follows:
   * HOTEL [notbooked] | La Quinta Inn & Suites by Wyndham Dallas I-35 Walnut Hill Ln  
 
 * Dallas TX to El Paso TX | 14May to 15May | 9hr 6min
-  * HOTEL [notbooked] | La Quinta Inn & Suites by Wyndham El Paso West Bartlett
+  * HOTEL [notbooked] | La Quinta Inn by Wyndham El Paso West
 
 #### OptionA: 2 days
 
