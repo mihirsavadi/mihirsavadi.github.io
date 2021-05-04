@@ -17,13 +17,13 @@ Blue should be able to continuously transmit her location as long as her engine 
 My intended route is as follows:  
 
 * Blacksburg VA to NashVille TN | 12May to 13May | 6hr 18min
-  * HOTEL [notbooked] | Days Inn by Wyndham Goodlettsville/Nashville
+  * HOTEL [booked] | Days Inn by Wyndham Goodlettsville/Nashville
 
 * Nashville TN to Dallas TX | 13May to 14May | 9hr 53min
-  * HOTEL [notbooked] | La Quinta Inn & Suites by Wyndham Dallas I-35 Walnut Hill Ln  
+  * HOTEL [booked] | La Quinta Inn & Suites by Wyndham Dallas I-35 Walnut Hill Ln  
 
 * Dallas TX to El Paso TX | 14May to 15May | 9hr 6min
-  * HOTEL [notbooked] | La Quinta Inn by Wyndham El Paso West
+  * HOTEL [booked] | La Quinta Inn by Wyndham El Paso West
 
 #### OptionA: 2 days
 
