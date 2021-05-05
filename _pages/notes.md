@@ -14,7 +14,7 @@ been in. I try to keep layout and language simple, candid, and intuitive. As far
 
 If you notice any mistakes, or would like to inquire about other course materials, [shoot me an email](mailto:mihirsavadi1@vt.edu). I'll try to help where I can.
 
-## Virgnia Tech Electrical & Computer Engineering 
+## Virgnia Tech Electrical & Computer Engineering
 
 <div markdown="1" style="font-size:18px">
 
@@ -22,7 +22,8 @@ If you notice any mistakes, or would like to inquire about other course material
 - [ECE2214 Physical Electronics (Spring 2020)](assets\notes\collegeNotes\ECE2214_PhysicalElectronics_Spring2020.pdf)
 - [ECE2024 Circuits (Spring 2020)](assets\notes\collegeNotes\ECE2024_Circuits-FormulaSheet_Fall2019.pdf)  
 
-
+- [STAT4714 Probability and Statistics for Electrical Engineers](assets\notes\collegeNotes\STAT4714_ProbabilityAndStatisticsForEE_Spring2021.pdf)  
+  *^probably the prettiest of all my notes*
 - [MATH2534 Discrete Math (Fall 2020)](assets\notes\collegeNotes\MATH2534_DiscreteMath_Fall2020.pdf)  
   *^the most useful math class I've ever taken.*
 - [MTH265 Calc3-Multivariable  Calculus (Summer 2020 @NOVACC)](\assets\notes\collegeNotes\NOVACC_MTH265_Calc3_Summer2020.pdf)
@@ -33,9 +34,9 @@ If you notice any mistakes, or would like to inquire about other course material
   - [finals summary](assets\notes\collegeNotes\MATH1226_Calc2_Fall2018.pdf)
   - [trig identities](assets\notes\collegeNotes\MATH1226_Calc2-TrigIDs_Fall2018.pdf)  
 
-
 - [CHEM1035 General Chemistry (Fall 2018)](assets\notes\collegeNotes\CHEM1035_GenChem_Fall2018.pdf):
   - [finals summary](assets\notes\collegeNotes\CHEM1035_GenChem-FinalsNotes_Fall2018.pdf)
+
 </div>
 
 ## International Baccalaureate (IB)
