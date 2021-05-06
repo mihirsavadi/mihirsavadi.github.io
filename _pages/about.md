@@ -66,12 +66,12 @@ i.e. my source of zen. Running a minimal set-up: Harley Benton Dullahan, Zoom G1
   Surviving Junior year in Electrical & Computer Engineering, working on VT MICS projects, thinking about grad school, attempting to balance life in general. Realizing the striking finiteness of time.
 - __August, 2020__:  
   Joined the [Virginia Tech Multifunctional Integrated Circuits & Systems Group (VT MICS)](https://www.mics.ece.vt.edu/), conducting research into low power Neuromorphic ASIC's (application specific integrated circuits). Get to work on cool stuff at the intersections of artificial intelligence, neuroscience, low level signal processing, and computer architecture.  
-  *New item on the bucket list:* ☐*build a brain*.
+  <!-- *New item on the bucket list:* ☐*build a brain*. -->
 - __May, 2020__:  
   Started an internship at Cree Wolfspeed in Raleigh-Durham, North Carolina for the summer. Had a great time learning about bleeding edge silicon carbide semiconductor technology. Learnt a ton during my summer project designing high-speed controls systems for an automotive inverter test platform. 
 - __June, 2019__:  
   Started a long-term project with the aim of building affordable and easily scalable Variometers for hang-gliders. Called it 'Glidio'.  
-  *Context*: joined the VT hang gliding club in January; went to a big hang gliding event at Kitty Hawk, NC in the summer; enjoyed having a wing strapped to my back and jumping off high places; decided to take on hang gliding seriously.
+  *Context*: joined the VT hang gliding club in January; went to a big hang gliding event at Kitty Hawk, NC in the summer; enjoyed having a wing strapped to my back and jumping off high places.
 - __March, 2019__:  
   Became VT Motorsport's Electrical Team Lead for our 2020 competition season (the upcoming pandemic would soon pose many challenges). Started work on a digital non-programmable drive-by-wire safety system called the Brake System Plausibility Device (BSPD).
 - __September, 2018__:  
