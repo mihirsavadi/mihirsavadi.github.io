@@ -34,28 +34,31 @@ get in touch@
 </div>
 
 ## Toolset
+
 <div markdown="1" style="font-size:18px">
+
 ### *Programming*
-As of recent I've spent most of my time working in Verilog, C++, and C. The swiss army knife that is Python has always been invaluable for automation and various scripting tasks when needed. I am in the midst of familiarizing myself with pytorch. Matlab is an ever-presence  through no choice of mine, however I do value its merits. I hope to see numpy take over Matlab in academia some time soon.
+
+As of recent I've spent most of my time working in Verilog, C++, and C. The swiss army knife that is Python has always been invaluable for automation and various scripting tasks when needed. I am in the midst of familiarizing myself with pytorch. Matlab is an ever-presence through no choice of mine, however I do value its merits. I hope to see numpy take over Matlab in academia some time soon.
 
 ### *Embedded Systems*
 
-Through course work I have become fairly comfortable with ModelSim as well as Intel/Altera's Quartus for verilog testbenching & FPGA development. Xilinx's Vivado is on the grocery list. The affordable ICE40 FPGA line from Lattice Semiconductor and the recent growth in open source FPGA toolchains has really captured my intrigue; I hope to be able to capitalize on these in the near future.
+Through course work I've become fairly comfortable with ModelSim as well as Intel/Altera's Quartus for verilog testbenching & FPGA development. Xilinx's Vivado is on the grocery list. The affordable ICE40 FPGA line from Lattice Semiconductor and the recent growth in open source FPGA toolchains has really captured my intrigue; I hope to be able to capitalize on these in the near future.
 
 My go-to general purpose microcontrollers for various projects have always been from the Teensy product line from pjrc.com. I have also grown a large interest in Espressif's various ESP32 SoC offerings. The Raspberry Pi Foundation's new RP2040 SoC is a mindblowingly cool device that might become my default go-to in the near future; its PIO blocks and un-opaque documentation are its major pulls.  
 
 ### *Printed Circuit Boards*
 
-Diptrace has been my go-to PCB software - I've amassed a somewhat comfortable library of components over the years. Diptrace's near universal compatibility, uncompromised simplicity, and fast turn-around times has kept me hooked - at least for my two-layer projects. I am also familiar with Altium through Formula SAE and internship work.  
+Diptrace has been my go-to PCB software - I've amassed a somewhat comfortable library of components over the years. Diptrace's near universal compatibility, uncompromised simplicity, and fast turn-around times has kept me hooked. I am also familiar with Altium through Formula SAE and internship work.  
 I'm a giant nerd about my soldering tools - the TS100 and TS80 have stuck and for many good reasons; also a big fan of toaster-oven to reflow-oven conversions. I really hope to see more open-source desktop vapor phase [solutions](https://github.com/pcbarts/vaporphaseone) become available. 
 
 ### *Circuit Analysis*
 
-LTSpice is a close friend - could anything less be expected of an ECE major? I picked up and became a big fan of PLECS over my internship at Cree Wolfspeed - its been a great complement to LTSpice.  
+Besides the default - LTSpice, I picked up and became a big fan of PLECS over my internship at Cree Wolfspeed - its been a great complement to LTSpice.  
 
 ### *CAD (2D/3D Modelling)*
 
-Fusion360 is my go to for CAD. I've also worked with Solidworks and Siemens NX through school and Formula SAE. Been playing with various 3D printers since the early 2010's - I have an old and well used UP Mini 2 collecting dust. Josef Prusa's I3 MK3S+ is on my wishlist. 
+Fusion360 is my go to for CAD. I've also worked with Solidworks and Siemens NX through school and Formula SAE. Been playing with various 3D printers since the early 2010's - I have an old and well used UP Mini 2 collecting dust. Josef Prusa's I3 MK3S+ is on my wishlist.  
 
 ### *Music*
 
