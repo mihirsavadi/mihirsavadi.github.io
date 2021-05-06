@@ -8,7 +8,7 @@ permalink: /letsgostalkmihirv3gw1m6h16340sd9
 ---
 
 # Where's Blue? 
-# (STATUS: Removed, not transmitting.)
+# (STATUS: installed, transmitting)
 
 Here you shall find the most recently updated location of Blue my Honda Fit. Click the Pin in the map below to see more information - date and time of location snapshot, GPS coordinates, etc.  
 
