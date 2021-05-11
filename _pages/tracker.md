@@ -23,17 +23,7 @@ My intended route is as follows:
   * HOTEL [booked] | La Quinta Inn & Suites by Wyndham Dallas I-35 Walnut Hill Ln  
 
 * Dallas TX to El Paso TX | 14May to 15May | 9hr 6min
-  * HOTEL [booked] | La Quinta Inn by Wyndham El Paso West
-
-#### OptionA: 2 days
-
-* El Paso TX to Phoenix AZ | 15May to 16May | 6hr 14min
-  * HOTEL [notbooked] | Red Roof Plus+ Phoenix West
-
-* Phoenix AZ to San Diego CA| 16May to 17May | 5hr 11 Min
-  * Destination! | 2865 Lincoln Avenue, Upstairs Flat, San Diego, CA 92104  
-
-#### OptionB: 1 day (most likely)
+  * HOTEL [booked] | La Quinta Inn by Wyndham El Paso West  
 
 * El Paso TX to San Diego CA | 15May to 16May | 10hr 13min
   * Destination! | 2865 Lincoln Avenue, Upstairs Flat, San Diego, CA 92104
