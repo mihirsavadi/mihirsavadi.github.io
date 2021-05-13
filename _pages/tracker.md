@@ -8,7 +8,10 @@ permalink: /letsgostalkmihirv3gw1m6h16340sd9
 ---
 
 # Where's Blue? 
-# (STATUS: installed, transmitting)
+# (STATUS: battery failure, not transmitting)
+
+Note:  
+GPS Tracker's auxiliary battery and charging circuit seems to have failed, right on the first day of the trip - very annoying. Can't open it up and fix it until I reach California, so no more tracking :,(
 
 Here you shall find the most recently updated location of Blue my Honda Fit. Click the Pin in the map below to see more information - date and time of location snapshot, GPS coordinates, etc.  
 
