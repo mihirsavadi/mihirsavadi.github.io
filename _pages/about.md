@@ -70,8 +70,11 @@ i.e. my source of zen. Running a minimal set-up: Harley Benton Dullahan, Zoom G1
 
 <div markdown="1" style="font-size:18px">
 
-- __Currently__:  
-  Surviving Junior year in Electrical & Computer Engineering, working on VT MICS projects, thinking about grad school, attempting to balance life in general. Realizing the striking finiteness of time.
+<!-- - __Currently__:  
+  Surviving Junior year in Electrical & Computer Engineering, working on VT MICS projects, thinking about grad school, attempting to balance life in general. Realizing the striking finiteness of time. -->
+
+- __May, 2021__:
+  Drove across the United States (Virginia to California) in a beat-up 14year old Honda fit. Started an Internship at Qualcomm's Global System on Chip team working on processor architecture validation and subsystem design - these go into billions of chips used by people everyday, all around the world.
 - __August, 2020__:  
   Joined the [Virginia Tech Multifunctional Integrated Circuits & Systems Group (VT MICS)](https://www.mics.ece.vt.edu/), conducting research into low power Neuromorphic ASIC's (application specific integrated circuits). Get to work on cool stuff at the intersections of artificial intelligence, neuroscience, low level signal processing, and computer architecture.  
   <!-- *New item on the bucket list:* ☐*build a brain*. -->
