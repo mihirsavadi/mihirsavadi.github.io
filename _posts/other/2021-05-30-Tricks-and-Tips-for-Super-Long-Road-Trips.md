@@ -8,7 +8,7 @@ categories: travel
 author: Mihir Savadi
 
 toc: true
-toc_label: "On This Page:"
+toc_label: "post contents:"
 ---
 
 <div markdown="1" style="font-size:20px; font-family: Times New Roman">
