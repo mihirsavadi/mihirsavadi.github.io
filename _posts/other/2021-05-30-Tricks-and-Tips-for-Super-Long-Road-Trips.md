@@ -21,7 +21,7 @@ This was a good thing: besides exercising my perseverance, it also demonstrated 
 <div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> awkward pose at Scenic Dr, El Paso, Texas </center></div>
 
 <div><center><img src="../../assets/posts/2021-05-30-Ultra-Long-Roadtrip-Tips/lajollaSD.jpg" width="500" height="375"></center></div>
-<div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> Pacific Ocean reached! Coast Blvd, La Jolla, California </center></div>
+<div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> little blue meets the big blue! Coast Blvd, La Jolla, California </center></div>
 
 I picked up a few pointers along the way for trips like these that I thought might be useful - summarized below.  
 
