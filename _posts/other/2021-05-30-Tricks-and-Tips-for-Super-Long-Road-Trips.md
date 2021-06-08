@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title:  "Tricks and Tips for Super Long Road Trips"
-last_modified_at: 2020-05-30
+last_modified_at: 2020-05-08
 categories: travel
 
 author: Mihir Savadi
@@ -18,10 +18,38 @@ Earlier this month I drove from Blacksburg Virginia to San-Diego California. The
 This was a good thing: besides exercising my perseverance, it also demonstrated in some sense the unnecessary excesses that we often convince ourselves are necessary in order to even start thinking about doing anything, and to some extent the things we don't think about enough of.  
 
 <div><center><img src="../../assets/posts/2021-05-30-Ultra-Long-Roadtrip-Tips/elpaso.jpg" width="500" height="375"></center></div>
-<div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> awkward pose at Scenic Dr, El Paso, Texas </center></div>
+<div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> awkward pose at Scenic Dr, El Paso, Texas </center></div> 
+
 
 <div><center><img src="../../assets/posts/2021-05-30-Ultra-Long-Roadtrip-Tips/lajollaSD.jpg" width="500" height="375"></center></div>
-<div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> little blue meets the big blue! Coast Blvd, La Jolla, California </center></div>
+<div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> little blue meets the big blue! Coast Blvd, La Jolla, California </center></div>  
+
+
+<div class="embed-container">
+    <center><iframe
+        title="timelapse of the entire trip"
+        src="../../assets/posts/2021-05-30-Ultra-Long-Roadtrip-Tips/total_front_2400x.mp4"
+        width="500"
+        height="375"
+        frameborder="0"
+        allowfullscreen="">
+    </iframe></center>
+    <div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> timelapse of the entire trip (if this doesn't play in chrome try another browser) </center></div>
+</div>  
+
+
+<div class="embed-container">
+    <center><iframe
+        title="a somewhat unpleasant incident"
+        src="../../assets/posts/2021-05-30-Ultra-Long-Roadtrip-Tips/tireexplosion_back.mp4"
+        width="500"
+        height="375"
+        frameborder="0"
+        allowfullscreen="">
+    </iframe></center>
+    <div markdown="1" style="font-size:15px; font-family: Times New Roman"><center> a somewhat unpleasant incident </center></div>
+</div>  
+
 
 I picked up a few pointers along the way for trips like these that I thought might be useful - summarized below.  
 
