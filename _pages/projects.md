@@ -22,7 +22,7 @@ include any of these as blog posts.  Put up shelf etc even.-->
 
 # fancyGradHat
 <div markdown="1" style="font-size:20px; font-family: Times New Roman">
-A PCB insert containing a 32x32 LED-matrix that goes under the fabric of a typical graduation hat. Great for graduation ceremonies! 
+A PCB containing a 32x32 LED-matrix that goes under the fabric of a typical graduation hat. Great for graduation ceremonies!  
 
 See the github repository here: [https://github.com/mihirsavadi/fancyGradHat](https://github.com/mihirsavadi/fancyGradHat)  
 </div>
