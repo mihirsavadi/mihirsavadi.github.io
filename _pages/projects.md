@@ -20,11 +20,19 @@ include any of these as blog posts.  Put up shelf etc even.-->
 
 <!-- Make github readmes for everything and just link to github -->
 
+# fancyGradHat
+<div markdown="1" style="font-size:20px; font-family: Times New Roman">
+A PCB insert containing a 32x32 LED-matrix that goes under the fabric of a typical graduation hat. Great for graduation ceremonies! 
+
+See the github repository here: [https://github.com/mihirsavadi/fancyGradHat](https://github.com/mihirsavadi/fancyGradHat)  
+</div>
+---
+
 # Formula SAE | VT Motorsports
 <div markdown="1" style="font-size:20px; font-family: Times New Roman">
 [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) is an international collegiate design competition where teams of students fund, build, manage, and operate high performance race-vehicles from scratch - in our case both Electric and Combustion Powertrain vehicles. We typically have design cycles of around 1 year (barring the COVID era), with competitions in Brooklyn, Michigan and Fontana, California. Teams attend from all accross the United States, as well as Europe and Asia. As a team we are composed of a wide variety of majors both in and out of engineering, however the github repositories linked below only cover the electrical related projects I was involved with - which is only a small portion of the many amazing things the team accomplishes every year. Check us out at [www.vtmotorsports.com](http://vtmotorsports.weebly.com/).
 
-- [All-In-One Board Repository](https://github.com/mihirsavadi/VTM_AIO_Board)  
+- [All-In-One Board Github Repository (https://github.com/mihirsavadi/VTM_AIO_Board)](https://github.com/mihirsavadi/VTM_AIO_Board)  
   *Data Acquisition and Formula SAE 2022 Rules Compliant Power Distribution*
   
 Other github project repositories and documentation under construction.
@@ -43,7 +51,7 @@ GitHub repository and documentation under construction.
 <div markdown="1" style="font-size:20px; font-family: Times New Roman">
 Efficient and minimal data logging for exploring household trends.
 
-[Repository here](https://github.com/mihirsavadi/choreChartTracker)
+See the github repository here: [https://github.com/mihirsavadi/choreChartTracker](https://github.com/mihirsavadi/choreChartTracker)
 </div>
 ---
 
