@@ -22,7 +22,9 @@ include any of these as blog posts.  Put up shelf etc even.-->
 
 # fancyGradHat
 <div markdown="1" style="font-size:20px; font-family: Times New Roman">
-A PCB containing a 32x32 LED-matrix that goes under the fabric of a typical graduation hat. Great for graduation ceremonies!  
+A PCB containing a 32x32 LED-matrix that goes under the fabric of a typical graduation hat. Great for graduation ceremonies!
+
+The entire "stack" - from the printed circuit board and power management, to signal processing and graphics acceleration hardware, to high-level media formatting - is all built from scratch. Based on its current architecture it can reach a maximum of around 30000 FPS (currently limited to 1000 FPS in software).
 
 See the github repository here: [https://github.com/mihirsavadi/fancyGradHat](https://github.com/mihirsavadi/fancyGradHat)  
 </div>
